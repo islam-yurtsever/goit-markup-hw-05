@@ -516,8 +516,8 @@ a {
 }
 
 .container-subscribe {
-  display: flex;
-  gap: 24px;
+  flex-direction: column;
+  padding-left: 80px;
 }
 
 .subscribe-form {
